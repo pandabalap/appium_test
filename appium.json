@@ -1,0 +1,8 @@
+{
+    "appPackage": "com.code2lead.kwad",
+    "appActivity": "com.code2lead.kwad.MainActivity",
+    "platformName": "Android",
+    "deviceName": "Google Pixel",
+    "udid": "192.168.56.102:5555",
+    "automationName": "UiAutomator2"
+}
